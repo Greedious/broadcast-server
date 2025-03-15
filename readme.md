@@ -64,8 +64,8 @@ exit
 │   ├── connect.go     # Connect client command
 ├── server             # WebSocket server implementation
 │   ├── server.go      # Server logic
-├── config             # WebSocket server implementation
-│   ├── constants.go      # Server logic
+├── config             # General configs
+│   ├── constants.go   # constants for app
 ├── main.go            # Entry point
 ├── go.mod             # Dependencies
 ├── go.sum             # Checksum file
